@@ -1,8 +1,9 @@
 # README
 
-*Run this 
-    rails s -b $IP -p $PORT
-*Then go to 
+* Run this 
+    rails s -b $IP -p 
+
+* Then go to 
     https://depot-tgillstar.c9users.io/products
 
 This README would normally document whatever steps are necessary to get the
