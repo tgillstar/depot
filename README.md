@@ -1,7 +1,7 @@
 # README
 
 * Run this 
-    * $ rails s -b $IP -p 
+    * $ rails s -b $IP -p $PORT
 
 * Then go to 
     * $ https://depot-tgillstar.c9users.io/products
